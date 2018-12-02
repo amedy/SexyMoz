@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Este documento possui restricao
+                    Este documento possui 2 commites e pra 2gorga
                 </div>
 
                 <div class="links">
