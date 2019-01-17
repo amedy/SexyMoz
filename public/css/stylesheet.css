@@ -21,7 +21,6 @@ div.backgroud{
 	left: 0;
 	width: 100%;
 	height: 100%;
-	font-family: font;
 	background:url(../assets/img/massas0.jpg);
 	background-size: cover;
 }
@@ -71,5 +70,10 @@ section#conteudo-view form label, section#conteudo-view form{
 	float: left;
 	width: 100%;
 }
-
+/*aqui adicionei para fazer asimplificacao de loguin*/
+body{
+	font-stretch: 12px;
+	background-color: blue;
+	text-shadow:;
+}
 
